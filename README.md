@@ -2,6 +2,9 @@
 Build jar:
 mvn package
 
+Test jar:
+java -jar docker_spring_boot.jar
+
 Build docker image:
 docker build -t firstspringboot .
 
