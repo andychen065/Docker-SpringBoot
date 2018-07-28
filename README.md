@@ -1,4 +1,4 @@
-# SpringBootExample
+# SpringBootExample in Docker
 Build jar:
 mvn package
 
